@@ -1,0 +1,1 @@
+md2po -i ../ --multifile onefile --duplicates merge -o ../docs.po
